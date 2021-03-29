@@ -1,0 +1,1 @@
+dpcpp source.cpp -Ofast -march=native -mtune=skylake -mmmx -m3dnow -msse2 -msse3 -msse4 -mavx -mavx2 -ffast-math
